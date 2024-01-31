@@ -1,2 +1,2 @@
 # coursera-test
-coursera test fore me
+coursera test for me
